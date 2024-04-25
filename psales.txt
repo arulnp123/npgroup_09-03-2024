@@ -1,0 +1,2 @@
+<label for='uploaded_file'>Select A File To Upload:</label>
+<input type="file" name="uploaded_file">
